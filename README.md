@@ -4,6 +4,7 @@ This repo contains all the kubernetes resources yaml files to deploy monitoring 
 
 ## Cloning
 ```
+git clone git@github.com:Misterhex/kubernetes-logging-monitoring-example.git
 cd kubernetes-logging-monitoring-example
 ```
 
